@@ -1,0 +1,2 @@
+# kaggle_digit_recognition
+simple_digit_recognition
